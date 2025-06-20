@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Restaurant Info */}
           <div className="space-y-4">
-            <h3 className="text-xl font-bold text-amber-400">Bella Vista</h3>
+            <h3 className="text-xl font-bold text-amber-400">Los Tacos ML</h3>
             <p className="text-gray-300">
               Experience the finest in contemporary dining with locally sourced ingredients and expertly crafted dishes.
             </p>
@@ -24,7 +24,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span>info@bellavista.com</span>
+                <span>info@lostacos.mnl</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
@@ -66,7 +66,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2025 Bella Vista Restaurant. All rights reserved.</p>
+          <p>&copy; 2025 Los Tacos MNL. All rights reserved.</p>
         </div>
       </div>
     </footer>

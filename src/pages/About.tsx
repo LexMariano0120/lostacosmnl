@@ -25,7 +25,7 @@ const About = () => {
                 Our Story
               </h2>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                Founded in 2015, Bella Vista began as a dream to create a dining destination where 
+                Founded in 2015, Los Tacos MNL began as a dream to create a dining destination where 
                 culinary artistry meets warm hospitality. Our journey started with a simple vision: 
                 to craft exceptional dining experiences that celebrate both local ingredients and 
                 international culinary traditions.
@@ -37,7 +37,7 @@ const About = () => {
                 quality, creativity, and genuine hospitality.
               </p>
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                Today, Bella Vista continues to evolve while staying true to our founding mission of 
+                Today, Los Tacos MNL continues to evolve while staying true to our founding mission of 
                 creating memorable dining experiences that bring people together around exceptional food.
               </p>
             </div>
@@ -77,7 +77,7 @@ const About = () => {
             </div>
             <div>
               <h3 className="text-3xl font-bold text-gray-900 mb-4">
-                Chef Marco Rodriguez
+                Chef Patrick Curitana
               </h3>
               <p className="text-xl text-amber-600 mb-6">Executive Chef & Culinary Director</p>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
@@ -124,7 +124,7 @@ const About = () => {
               Our Values
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              The principles that guide everything we do at Bella Vista
+              The principles that guide everything we do at Los Tacos MNL
             </p>
           </div>
 
@@ -171,7 +171,7 @@ const About = () => {
               Our Team
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              The passionate professionals who make Bella Vista exceptional
+              The passionate professionals who make Los Tacos MNL exceptional
             </p>
           </div>
 

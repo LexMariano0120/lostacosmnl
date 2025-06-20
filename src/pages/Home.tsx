@@ -12,7 +12,7 @@ const Home = () => {
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center text-white max-w-4xl mx-auto px-4">
             <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-              Bella Vista
+              Los Tacos MNL
             </h1>
             <p className="text-xl md:text-2xl mb-8 font-light">
               Where culinary artistry meets exceptional hospitality
